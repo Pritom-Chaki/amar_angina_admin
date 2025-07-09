@@ -42,7 +42,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "af7c893427af17abf6c1a03878be5cc5
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "7a2c0c60ac3ee45166471dbe9be24fb2",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "c0dd44a61eb29757d36fbccb637c399a",
+"flutter_bootstrap.js": "f18063605e7ebb57bba91166a70ddb50",
 "icons/ChatGPT.html": "433e1b8db5c32ab2bf3d5443c4787947",
 "icons/ChatGPT_files/ansi-1f6vhsjh.css": "9c08dfdd1b3e657a1947c61d6c929448",
 "icons/ChatGPT_files/conversation-small-ggtqjiqs.css": "7b3d7fba4398e1c15033f62af9397c0c",
@@ -55,7 +55,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "af7c893427af17abf6c1a03878be5cc5
 "icons/Icon-maskable-512.png": "0f06a5c0a114c80f7a4ff8a9e7575653",
 "index.html": "578d54966049af358962b8a24f54e119",
 "/": "578d54966049af358962b8a24f54e119",
-"main.dart.js": "8de7ebb04b9c9349c63e164c177bef64",
+"main.dart.js": "42f95ee74578017a87b339a5703b691c",
 "manifest.json": "3cc2ebb4938c6b446d121b4e1210b814",
 "version.json": "7dfa9b55ef6f504587b8e94c70cb8bad"};
 // The application shell files that are downloaded before a service worker can
